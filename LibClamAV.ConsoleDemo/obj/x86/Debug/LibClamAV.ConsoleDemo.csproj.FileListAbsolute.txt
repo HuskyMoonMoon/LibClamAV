@@ -1,0 +1,12 @@
+c:\users\chayapol\documents\visual studio 2015\Projects\LibClamAV\LibClamAV.ConsoleDemo\bin\x86\Debug\libclamav.dll
+c:\users\chayapol\documents\visual studio 2015\Projects\LibClamAV\LibClamAV.ConsoleDemo\bin\x86\Debug\libclamav_llvm.dll
+c:\users\chayapol\documents\visual studio 2015\Projects\LibClamAV\LibClamAV.ConsoleDemo\bin\x86\Debug\libclamunrar.dll
+c:\users\chayapol\documents\visual studio 2015\Projects\LibClamAV\LibClamAV.ConsoleDemo\bin\x86\Debug\libclamunrar_iface.dll
+c:\users\chayapol\documents\visual studio 2015\Projects\LibClamAV\LibClamAV.ConsoleDemo\bin\x86\Debug\LibClamAV.ConsoleDemo.exe.config
+c:\users\chayapol\documents\visual studio 2015\Projects\LibClamAV\LibClamAV.ConsoleDemo\bin\x86\Debug\LibClamAV.ConsoleDemo.exe
+c:\users\chayapol\documents\visual studio 2015\Projects\LibClamAV\LibClamAV.ConsoleDemo\bin\x86\Debug\LibClamAV.ConsoleDemo.pdb
+c:\users\chayapol\documents\visual studio 2015\Projects\LibClamAV\LibClamAV.ConsoleDemo\bin\x86\Debug\LibClamAV.Net.dll
+c:\users\chayapol\documents\visual studio 2015\Projects\LibClamAV\LibClamAV.ConsoleDemo\bin\x86\Debug\LibClamAV.Net.pdb
+c:\users\chayapol\documents\visual studio 2015\Projects\LibClamAV\LibClamAV.ConsoleDemo\obj\x86\Debug\LibClamAV.ConsoleDemo.csprojResolveAssemblyReference.cache
+c:\users\chayapol\documents\visual studio 2015\Projects\LibClamAV\LibClamAV.ConsoleDemo\obj\x86\Debug\LibClamAV.ConsoleDemo.exe
+c:\users\chayapol\documents\visual studio 2015\Projects\LibClamAV\LibClamAV.ConsoleDemo\obj\x86\Debug\LibClamAV.ConsoleDemo.pdb

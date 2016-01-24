@@ -1,7 +1,0 @@
-C:\Users\Chayapol\Desktop\LibClamAV\bin\x86\Debug\libclamav.dll
-C:\Users\Chayapol\Desktop\LibClamAV\bin\x86\Debug\libclamav_llvm.dll
-C:\Users\Chayapol\Desktop\LibClamAV\bin\x86\Debug\libclamunrar.dll
-C:\Users\Chayapol\Desktop\LibClamAV\bin\x86\Debug\libclamunrar_iface.dll
-C:\Users\Chayapol\Desktop\LibClamAV\bin\x86\Debug\LibClamAV.pdb
-C:\Users\Chayapol\Desktop\LibClamAV\obj\x86\Debug\LibClamAV.dll
-C:\Users\Chayapol\Desktop\LibClamAV\obj\x86\Debug\LibClamAV.pdb
