@@ -25,10 +25,9 @@ namespace LibClamAV.ConsoleDemo
                 do
                 {
                     Console.Write("\nEnter full path of file to scan or drag/drop to this window\nOr \"q\" to exit : ");
-                    if (File.Exists(FileToScan = Console.ReadLine().Replace("\"", "")))
+                    if (File.Exists(FileToScan = Console.ReadLine().Replace("\"", "")) ||
+                        (Quit = FileToScan.ToLower() == "q"))
                         break;
-                    if (Quit = FileToScan.ToLower() == "q")
-                        continue;
                 } while (!File.Exists(FileToScan) || !Quit);
 
                 if(!Quit)
